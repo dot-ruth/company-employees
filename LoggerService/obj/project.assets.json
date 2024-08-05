@@ -191,6 +191,22 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "CompanyEmployees/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NLog.Extensions.Logging": "5.3.11"
+        },
+        "compile": {
+          "bin/placeholder/CompanyEmployees.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyEmployees.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -483,11 +499,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CompanyEmployees/1.0.0": {
+      "type": "project",
+      "path": "../CompanyEmployees/CompanyEmployees.csproj",
+      "msbuildProject": "../CompanyEmployees/CompanyEmployees.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "NLog.Extensions.Logging >= 5.3.11"
+      "CompanyEmployees >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -496,11 +517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
-      "projectName": "CompanyEmployees",
-      "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectName": "LoggerService",
+      "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
+      "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -516,7 +537,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {
+              "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -528,12 +553,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "NLog.Extensions.Logging": {
-            "target": "Package",
-            "version": "[5.3.11, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -546,9 +565,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

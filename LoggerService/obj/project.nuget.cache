@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sr/Eqf/5+j+x77KfwfLkoAoIh7iYD8dt1U7WCErYhmMLjWcRlrpW4HW5HaS8TMqMStDoGlgLI4TCnA6i0FrzVw==",
+  "dgSpecHash": "stPIjXuFiwRZFyc5oHi97vLsL8IcqeIRKFSDdJaqV3aYlb/L7gH6JfqCVtTOE3UtUkc8vsSxfjel1qad/M6HZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+  "projectFilePath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
