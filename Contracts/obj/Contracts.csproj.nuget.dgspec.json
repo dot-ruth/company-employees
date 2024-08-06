@@ -4,14 +4,14 @@
     "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {
+    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
-        "projectName": "CompanyEmployees",
-        "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
+        "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,132 +40,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "NLog.Extensions.Logging": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.3.11, )"
+              "version": "[6.0.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
-        "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
-        "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {
-                "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

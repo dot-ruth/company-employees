@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "stPIjXuFiwRZFyc5oHi97vLsL8IcqeIRKFSDdJaqV3aYlb/L7gH6JfqCVtTOE3UtUkc8vsSxfjel1qad/M6HZA==",
+  "dgSpecHash": "3tQWNIYSvx4GDF9/Zwzcx//8sAbSNgGLuOrqRJeZLiwHI9I37uoL3xRjeHgpYXqq7VsjEpq0B8pgyv+GNz3SwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
@@ -12,7 +16,7 @@
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
-    "C:\\Users\\Abel\\.nuget\\packages\\nlog.extensions.logging\\5.3.11\\nlog.extensions.logging.5.3.11.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
