@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3tQWNIYSvx4GDF9/Zwzcx//8sAbSNgGLuOrqRJeZLiwHI9I37uoL3xRjeHgpYXqq7VsjEpq0B8pgyv+GNz3SwQ==",
+  "dgSpecHash": "sO36pMPilk3V+zZF4Ol4wUrLSw56EewnpSGaal4b92LtTxWwIioTCDnktNpJ/Mi0QVjZCN3LhDmj0pffydxHxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Abel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

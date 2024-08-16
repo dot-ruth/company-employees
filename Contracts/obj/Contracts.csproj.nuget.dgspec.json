@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {}
+    "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",

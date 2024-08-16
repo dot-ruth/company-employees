@@ -619,11 +619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -640,11 +640,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+            "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Entities\\Entities.csproj"
             }
           }
         }

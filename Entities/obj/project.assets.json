@@ -581,11 +581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abel\\source\\repos\\CompanyEmployees\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Abel\\source\\repos\\Ruth's Projects\\CompanyEmployees\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
